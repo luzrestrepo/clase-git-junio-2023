@@ -5,3 +5,4 @@ y estamos en clase de git
 y estamos aprendiendo mucho 
 y mañana tambien
 
+y ya estamos en clase de repositorio remoto 
